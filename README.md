@@ -14,7 +14,7 @@ In this notebook, Data Science Tools and Ecosystem are summarized.
 - SQL
 - Scala
 
-##Some of the commonly used libraries used by Data Scientists include:
+## Some of the commonly used libraries used by Data Scientists include:
 
 - Pandas
 - Numpy
